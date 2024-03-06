@@ -1,0 +1,2 @@
+# deep_clean_mac
+删除mac电脑下的iCloud同步缓存文件以及cache文件，可清理50GB+的空间
